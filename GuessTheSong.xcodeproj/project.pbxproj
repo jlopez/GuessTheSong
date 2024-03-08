@@ -15,6 +15,7 @@
 		A5D4E37C2B9AE995003E5D10 /* GuessTheSongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D4E37B2B9AE995003E5D10 /* GuessTheSongTests.swift */; };
 		A5D4E3862B9AE995003E5D10 /* GuessTheSongUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D4E3852B9AE995003E5D10 /* GuessTheSongUITests.swift */; };
 		A5D4E3882B9AE995003E5D10 /* GuessTheSongUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D4E3872B9AE995003E5D10 /* GuessTheSongUITestsLaunchTests.swift */; };
+		A5D4E3952B9AEACE003E5D10 /* Golondrina in Resources */ = {isa = PBXBuildFile; fileRef = A5D4E3942B9AEACE003E5D10 /* Golondrina */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		A5D4E3812B9AE995003E5D10 /* GuessTheSongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheSongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5D4E3852B9AE995003E5D10 /* GuessTheSongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheSongUITests.swift; sourceTree = "<group>"; };
 		A5D4E3872B9AE995003E5D10 /* GuessTheSongUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheSongUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A5D4E3942B9AEACE003E5D10 /* Golondrina */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Golondrina; path = ../Golondrina; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 		A5D4E35A2B9AE992003E5D10 = {
 			isa = PBXGroup;
 			children = (
+				A5D4E3942B9AEACE003E5D10 /* Golondrina */,
 				A5D4E3652B9AE992003E5D10 /* GuessTheSong */,
 				A5D4E37A2B9AE995003E5D10 /* GuessTheSongTests */,
 				A5D4E3842B9AE995003E5D10 /* GuessTheSongUITests */,
@@ -240,6 +243,7 @@
 			files = (
 				A5D4E3702B9AE995003E5D10 /* Preview Assets.xcassets in Resources */,
 				A5D4E36D2B9AE995003E5D10 /* Assets.xcassets in Resources */,
+				A5D4E3952B9AEACE003E5D10 /* Golondrina in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
